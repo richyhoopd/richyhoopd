@@ -13,7 +13,7 @@ I'm Ricardo Martinez! I'm a **Fullstack Web Developer**:iphone:, looking to solv
 [![Gmail](https://img.shields.io/badge/-ricardo.martineasy@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ricardo.martineasy@gmail.com.com)
 
 <!-- Working GIF -->
-<img src="https://github.com/JoykishanSharma/JoykishanSharma/blob/master/dev_object.png" alt="dev_object" align="right" width="500" height="250" />
+<img src="https://scontent.fgdl3-1.fna.fbcdn.net/v/t1.6435-9/164603065_538193353815047_1165709720936510786_n.jpg?_nc_cat=102&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=h1xW6N4O5S0AX-Un1cG&_nc_ht=scontent.fgdl3-1.fna&oh=0fc9e3de80100f3d7f831f9b2abdeba3&oe=60E0DDEB" alt="dev_object" align="right" width="500" height="250" />
 
 ### 💼  Things that I'm currently working on: 
 * Learning Front-End Web:computer: Development
