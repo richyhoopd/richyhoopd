@@ -64,6 +64,18 @@ Since the world is in the quarantine stage:earth_america:, and I’m having lots
 
 </p>
 
+
+```javascript
+const ricardoMartinez = {
+  pronouns: "he" | "him",
+  code: [Javascript, Typescript, HTML, CSS, C#, C, Python, Java],
+  tools: [React, Redux, Node, MongoDB, Angular, Jest, Docker, Express],
+  architecture: ["microservices", "event-driven", "design system pattern"],
+  
+ challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+}
+```
+
 <h4 align="center"> Thanks for Visiting!:innocent:</h4>
 
 <!-- Credit -->
